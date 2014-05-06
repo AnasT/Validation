@@ -1,6 +1,8 @@
 {
     "name": "anas-t/validation",
-    "description": "",
+    "description": "Simple validation package.",
+    "keywords": ["laravel","validation"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Taha Anas",
