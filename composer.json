@@ -3,7 +3,7 @@
     "description": "Simple validation package.",
     "keywords": ["laravel","validation"],
     "license": "MIT",
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/AnasT/Validation",
     "authors": [
         {
             "name": "Taha Anas",
