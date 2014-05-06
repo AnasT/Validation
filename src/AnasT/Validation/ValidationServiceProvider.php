@@ -19,7 +19,7 @@ class ValidationServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-		//
+		// Should I really keep a service provider ?
 	}
 
 	/**
