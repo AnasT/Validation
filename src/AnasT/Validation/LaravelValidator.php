@@ -41,7 +41,7 @@ abstract class LaravelValidator extends AbstractValidator {
             return true;
         }
 
-        $this->errors = $validator->messages();
+        $this->errors = $validator->errors()->all(':message');
         return false;
     }
 
